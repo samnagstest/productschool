@@ -3,4 +3,4 @@
 
 ## First Headline
 
-My new feature is looking fly
+My new feature is looking fly!
